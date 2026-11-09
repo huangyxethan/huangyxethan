@@ -15,7 +15,9 @@ My work spans the quantitative research pipeline: machine learning and deep lear
 
 #### Selected work
 
-- [investment-research-agent](https://github.com/huangyxethan/investment-research-agent) — NL2SQL research assistant for Chinese public mutual funds: Streamlit UI, PostgreSQL + pgvector, a deterministic sqlglot SQL safety guard, LLM-authored Plotly charts, and an evaluation suite.
+| Project | What it does | Stack |
+|---|---|---|
+| [investment-research-agent](https://github.com/huangyxethan/investment-research-agent) | NL2SQL research assistant for Chinese public mutual funds: generates SQL from a question, validates it with a deterministic AST guard, runs it, then narrates and charts the result; ships with an evaluation suite | Python, Streamlit, PostgreSQL + pgvector, sqlglot, Plotly, Claude / DeepSeek |
 
 #### Background
 
