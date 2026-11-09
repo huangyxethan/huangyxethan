@@ -18,6 +18,7 @@ My work spans the quantitative research pipeline: machine learning and deep lear
 | Project | What it does | Stack |
 |---|---|---|
 | [investment-research-agent](https://github.com/huangyxethan/investment-research-agent) | NL2SQL research assistant for Chinese public mutual funds: generates SQL from a question, validates it with a deterministic AST guard, runs it, then narrates and charts the result; ships with an evaluation suite | Python, Streamlit, PostgreSQL + pgvector, sqlglot, Plotly, Claude / DeepSeek |
+| [commodity-multi-agent-trading](https://github.com/nalin2002/commodity-multi-agent-trading) · team project | Four-agent LangGraph trading desk for WTI, Gold and Corn futures (news analyst, market analyst, risk manager, trader) with a daily 2024 backtest. My part: the News Analyst's expanding-window, recency-bucketed retrieval over a GDELT / NewsAPI / RSS cache, extending the news and market agents from WTI to three commodities, and the daily backtest cadence | Python, LangGraph, OpenAI, GDELT / BigQuery, pandas |
 
 #### Background
 
