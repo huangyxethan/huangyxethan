@@ -1,6 +1,6 @@
 ### Hi, I'm Yixiang (Ethan) Huang
 
-MS Financial Mathematics candidate in the Machine Learning and AI concentration at the University of Chicago, focused on equity alpha research and systematic trading.
+MS Financial Mathematics candidate in the Machine Learning and AI concentration at the University of Chicago, focused on equity and equity derivatives alpha research and systematic trading.
 
 I graduate in December 2026 and am seeking full-time Quantitative Research opportunities starting in 2027.
 
@@ -8,10 +8,10 @@ My work spans the quantitative research pipeline: machine learning and deep lear
 
 #### Research areas
 
+- Derivative pricing and hedging: autocallables, options, and futures
 - Equity alpha research with machine learning and deep learning, including tick-level data
 - Systematic strategies: futures (CTA), sector and ETF rotation, and factor research
 - Portfolio construction, risk analytics, and performance attribution
-- Derivative pricing and hedging: autocallables, options, and futures
 
 #### Background
 
