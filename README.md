@@ -13,6 +13,10 @@ My work spans the quantitative research pipeline: machine learning and deep lear
 - Systematic strategies: futures (CTA), sector and ETF rotation, and factor research
 - Portfolio construction, risk analytics, and performance attribution
 
+#### Selected work
+
+- [investment-research-agent](https://github.com/huangyxethan/investment-research-agent) — NL2SQL research assistant for Chinese public mutual funds: Streamlit UI, PostgreSQL + pgvector, a deterministic sqlglot SQL safety guard, LLM-authored Plotly charts, and an evaluation suite.
+
 #### Background
 
 - Quantitative research, trading, and risk internships at CITIC Securities, Guotai Haitong Securities Asset Management, CICC, and GF Securities Asset Management
