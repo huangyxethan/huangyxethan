@@ -2,6 +2,8 @@
 
 MS Financial Mathematics candidate in the Machine Learning and AI concentration at the University of Chicago, focused on equity alpha research and systematic trading.
 
+I graduate in December 2026 and am seeking full-time Quantitative Research opportunities starting in 2027.
+
 My work spans the quantitative research pipeline: machine learning and deep learning for signal generation, portfolio optimization and risk management for strategy construction, and rigorous backtesting and model evaluation for validation. I also have training in derivative pricing, from stochastic calculus and risk-neutral valuation to Monte Carlo simulation and volatility modeling.
 
 #### Research areas
